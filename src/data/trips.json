@@ -1,0 +1,26 @@
+[
+    {
+      "img": "../assets/images/travel-1.jpg",
+      "alt": "Balcony on Beach in Tulum, Mexico",
+      "name": "Balcony on Beach in Tulum, Mexico", 
+      "button": "View Destination"
+    },
+    {
+      "img": "../assets/images/travel-2.jpg",
+      "name": "Brown Wooden Bridge Near Waterfall in Petang, Indonesia", 
+      "alt": "Brown Wooden Bridge Near Waterfall in Petang, Indonesia",
+      "button": "View Destination"
+    },
+    {
+      "img": "../assets/images/travel-3.jpg",
+      "alt": "Photography of The Temple in Leshan, China",
+      "name": "Photography of The Temple in Leshan, China", 
+      "button": "View Destination"
+    },
+    {
+      "img": "../assets/images/travel-4.jpg",
+      "alt": "Eiffel Tower in Paris, France",
+      "name": "Eiffel Tower in Paris, France", 
+      "button": "View Destination"
+    }
+]
