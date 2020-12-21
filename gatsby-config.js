@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: "/reponame",
+  pathPrefix: "/Travel-Website-React-Gatsby",
   siteMetadata: {
     title: `Gatsby Travel Website`,
     description: `Travel website showcasing the best travel destinations and deals online.`,
