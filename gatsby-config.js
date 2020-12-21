@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/reponame",
   siteMetadata: {
     title: `Gatsby Travel Website`,
     description: `Travel website showcasing the best travel destinations and deals online.`,
