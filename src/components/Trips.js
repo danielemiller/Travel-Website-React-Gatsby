@@ -88,7 +88,8 @@ const ProductsWrapper = styled.div`
   padding: 0 2rem;
 
   @media screen and (max-width: 1200px) {
-      grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+    grid-row-gap: 4rem;  
   }
 
   @media screen and (max-width: 868px) {
